@@ -27,6 +27,7 @@ when 18
   puts "Idade minima para entrada alcançada"
 end
 
+#Operador ternario (condição)?(se verdade):(se mentira)
 (idade >= 18 and idade <=40 ) ? (puts "Open.") : ("closed")
 
 
